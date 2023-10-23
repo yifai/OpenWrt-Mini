@@ -9,7 +9,7 @@ sed -i 's/bootstrap/opentomcat/g' ./feeds/luci/collections/luci/Makefile
 sed -i 's/KERNEL_PATCHVER:=6.1/KERNEL_PATCHVER:=5.15/g' ./target/linux/x86/Makefile
 
 # 更改管理地址
-sed -i 's/192.168.1.1/192.168.2.231/g' package/base-files/files/bin/config_generate
+sed -i 's/192.168.1.1/192.168.2.251/g' package/base-files/files/bin/config_generate
 
 # 设置密码为空
 sed -i '/CYXluq4wUazHjmCDBCqXF/d' package/lean/default-settings/files/zzz-default-settings
