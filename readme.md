@@ -8,7 +8,7 @@
 
  - 基础版插件：[ShadowSocksR Plus+](https://github.com/fw876/helloworld.git)
 
- - 合集版插件：PassWall，ShadowSocksR Plus+，OpenClash
+ - 合集版插件：[PassWall](https://github.com/xiaorouji/openwrt-passwall.git)、[ShadowSocksR Plus+](https://github.com/fw876/helloworld.git)、[OpenClash](https://github.com/vernesong/OpenClash.git.git)
 
 | 默认地址  | 默认账号 | 默认密码 |
 | ---- | ---- | ---- |
