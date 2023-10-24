@@ -6,7 +6,7 @@
 
  - 仅安装科学上网必要插件，去除多余功能，分两个版本
 
- - 基础版插件：仅一个ShadowSocksR Plus+
+ - 基础版插件：[ShadowSocksR Plus+](https://github.com/fw876/helloworld.git)
 
  - 合集版插件：PassWall，ShadowSocksR Plus+，OpenClash
 
