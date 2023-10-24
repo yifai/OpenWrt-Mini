@@ -1,6 +1,6 @@
 # OpenWrt-Mini  急速精简版，每周五-12点-云编译更新
 
-### 固件说明：（支持ipv6）
+## 固件说明：
 
  - 同步Lede最新代码，内核5.15.xxx，纯净精简，高效稳定
 
@@ -14,9 +14,9 @@
 | ---- | ---- | ---- |
 | 192.168.2.251 | root | 无密码 |
 
-### 固件下载:   [Releases](https://github.com/Bigdog-007/OpenWrt-Mini/releases) 
+## 固件下载:   [Releases](https://github.com/Bigdog-007/OpenWrt-Mini/releases) 
 
-### 固件截图
+## 固件截图
 
 ![avatar](https://github.com/Bigdog-007/OpenWrt-Mini/blob/main/jpg/OpenWrt-1.jpg)
 ![avatar](https://github.com/Bigdog-007/OpenWrt-Mini/blob/main/jpg/OpenWrt-2.jpg)
