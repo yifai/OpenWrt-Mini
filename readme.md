@@ -9,11 +9,12 @@
 
  - 合集版插件：[PassWall](https://github.com/xiaorouji/openwrt-passwall.git)、[ShadowSocksR Plus+](https://github.com/fw876/helloworld.git)、[OpenClash](https://github.com/vernesong/OpenClash.git.git)
 
-| 默认地址  | 默认账号 | 默认密码 |
-| ---- | ---- | ---- |
-| 192.168.2.251 | root | 无密码 |
+## 默认地址:192.168.55.1
+## 默认账号:root
+## 默认密码:无密码
 
-## 固件下载:   [Releases](https://github.com/Bigdog-007/OpenWrt-Mini/releases) 
+(192.168.2.251)
+
 
 ## 固件截图
 
