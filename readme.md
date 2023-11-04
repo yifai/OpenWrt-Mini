@@ -15,7 +15,6 @@
 
 (192.168.2.251)
 
-
 ## 固件截图
 
 ![avatar](https://github.com/Bigdog-007/OpenWrt-Mini/blob/main/jpg/OpenWrt-1.jpg)
