@@ -14,7 +14,7 @@
 | ---- | ---- | ---- |
 | 192.168.2.251 | root | 无密码 |
 
-## 固件下载:   [Releases](https://github.com/Bigdog-007/OpenWrt-Mini/releases) 
+## 固件下载:   [Releases] (https://github.com/Bigdog-007/OpenWrt-Mini/releases) 
 
 ## 固件截图
 
