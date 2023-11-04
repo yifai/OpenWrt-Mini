@@ -1,3 +1,4 @@
+# Fork自[dest-001](https://github.com/dest-001/Mini)，特此感谢
 # OpenWrt-Mini  急速精简版
 ## 固件说明：（支持ipv6）
 
