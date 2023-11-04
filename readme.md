@@ -19,5 +19,5 @@
 #  下载 [releases](https://github.com/yeefaye/OpenWrt-Mini/releases)
 ## 固件截图
 
-![avatar](https://github.com/Bigdog-007/OpenWrt-Mini/blob/main/jpg/OpenWrt-1.jpg)
-![avatar](https://github.com/Bigdog-007/OpenWrt-Mini/blob/main/jpg/OpenWrt-2.jpg)
+![avatar](https://github.com/yeefaye/OpenWrt-Mini/blob/main/jpg/OpenWrt-1.jpg)
+![avatar](https://github.com/yeefaye/OpenWrt-Mini/blob/main/jpg/OpenWrt-2.jpg)
