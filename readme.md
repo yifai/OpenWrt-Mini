@@ -15,7 +15,7 @@
 
 (192.168.2.251)
 
-# 下载 [1](https://github.com/yeefaye/OpenWrt-Mini/releases)
+# 下载 [releases](https://github.com/yeefaye/OpenWrt-Mini/releases)
 ## 固件截图
 
 ![avatar](https://github.com/Bigdog-007/OpenWrt-Mini/blob/main/jpg/OpenWrt-1.jpg)
