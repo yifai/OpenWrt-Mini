@@ -138,7 +138,7 @@ jobs:
         echo "release_tag=${{ env.TAG_TIME }}" >> $GITHUB_OUTPUT
         touch release.txt
         echo "OpenWrt5.15-X86-64-基础版（支持ipv6）" >> release.txt
-        echo "默认地址：192.168.2.251" >> release.txt
+        echo "默认地址：192.168.55.1" >> release.txt
         echo "默认密码：无密码" >> release.txt
         echo "包含插件：ShadowSocksR Plus+" >> release.txt
         echo "status=success" >> $GITHUB_OUTPUT
