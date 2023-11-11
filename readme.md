@@ -1,4 +1,4 @@
-# Fork自[dest-001](https://github.com/dest-001/Mini)，特此感谢
+# Fork自[dest-001](https://github.com/dest-001/Mini)，特此感谢，只修改后台管理IP
 # OpenWrt-Mini  急速精简版
 ## 固件说明：（支持ipv6）
 
